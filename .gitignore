@@ -1,0 +1,19 @@
+# Model weights - too large for GitHub
+*.pt
+
+# Video files
+*.mp4
+*.avi
+*.mov
+
+# Screenshots saved by the app
+screenshot_*.png
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code / IDE
+.vscode/
+.idea/
